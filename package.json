@@ -9,7 +9,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "backend-ifs",
   "dependencies": {
     "apollo-server-express": "^3.13.0",
     "axios": "^1.7.9",
